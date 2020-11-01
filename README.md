@@ -1,6 +1,6 @@
-# Robot Simulator
+# Robot Simulator Solution 
 
-Write a robot simulator.
+Here is solution for a robot simulator. Instructions are as below:
 
 A robot factory's test facility needs a program to verify robot movements.
 
@@ -48,16 +48,5 @@ Execute the tests with:
 $ npm test
 ```
 
-In the test suites all tests but the first have been skipped.
-
-Once you get a test passing, you can enable the next one by changing `xtest` to
-`test`.
-
-
-## Submitting Solutions
-
-Once you have a solution ready, you can make a github/bitbucket repository named 'solution-robot-simulator' to submit your solution and provide use with the link.
-
-Good Luck. 
 
 
